@@ -1,0 +1,7 @@
+# Kanekawa — https://kanekawa.web.id/
+# Allow all crawlers to index the whole site.
+User-agent: *
+Allow: /
+
+# Sitemap location (must be uploaded to the site root so it is served at this URL)
+Sitemap: https://kanekawa.web.id/sitemap.xml
